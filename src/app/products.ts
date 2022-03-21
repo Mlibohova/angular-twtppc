@@ -5,6 +5,8 @@ export interface Product {
   description: string;
 }
 
+
+
 export const products = [
   {
     id: 1,
